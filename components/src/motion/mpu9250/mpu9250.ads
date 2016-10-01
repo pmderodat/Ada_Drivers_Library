@@ -29,7 +29,6 @@
 --                                                                          --
 ------------------------------------------------------------------------------
 
-
 --  MPU9250 I2C device class package
 
 with Ada.Real_Time;       use Ada.Real_Time;
